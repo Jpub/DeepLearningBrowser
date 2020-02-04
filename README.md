@@ -6,6 +6,17 @@
 
 제이펍에서 출판한 <딥러닝 인 더 브라우저(2020)>의 공식 저장소 입니다. 책 내 소스 코드를 확인할 수 있습니다.
 
+
+**출판사** 제이펍  
+**원출판사** 
+**원서명**  
+**저자명**  
+**역자명** 이수진
+**출판일**    
+**페이지**    
+**시리즈** 
+**ISBN**  
+
 ## 책 소개
 이 책은 딥러닝과 웹 개발의 교차점에 있습니다. 두 기술 모두 성숙 단계에 접어들었고, 이들이 만난다면 누구도 상상하지 못한 환상적인 애플리케이션을 만들 수 있습니다.
 
@@ -14,10 +25,10 @@
 ### 목차
 * [Chapter 1: 딥러닝 소개 - 활성화 함수 그래프](/chapter1)
 * [Chapter 3: 자바스크립트 딥러닝 프레임워크](/chapter3)
-* [chapter 5: WebGL을 이용한 GPU 가속화](/chapter5)
-* [chapter 6: 웹 브라우저에서의 데이터 추출](/chapter6)
-* [chapter 7: 고급 데이터 조작을 위한 레시피](/chapter7)
-* [chapter 8:  TensorFlow.js 애플리케이션 개발](/chapter8)
+* [Chapter 5: WebGL을 이용한 GPU 가속화](/chapter5)
+* [Chapter 6: 웹 브라우저에서의 데이터 추출](/chapter6)
+* [Chapter 7: 고급 데이터 조작을 위한 레시피](/chapter7)
+* [Chapter 8:  TensorFlow.js 애플리케이션 개발](/chapter8)
 
 ### 데모
 * [가위바위보 게임](https://reiinakano.com/tfjs-rock-paper-scissors/)
