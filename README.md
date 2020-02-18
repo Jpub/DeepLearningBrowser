@@ -3,6 +3,7 @@
 <p align="center">
 <img src="http://image.kyobobook.co.kr/images/book/xlarge/835/x9791188621835.jpg"/>
 </p>
+
 **출판사** 제이펍  
 **원출판사** Bleeding Edge Press  
 **원서명** Deep Learning In The Browser(원서 ISBN: 9789386052988)  
@@ -13,6 +14,10 @@
 **시리즈** I♥A.I. 23(아이러브 인공지능 23)  
 **ISBN** 979-11-88621-83-5(93000)  
 
+[### 도서 소개 페이지 바로 가기 ###](https://jpub.tistory.com/1012?category=208491)
+
+
+## 페이지 소개
 딥러닝 인 더 브라우저(2020)>의 공식 저장소 입니다. 책 내 소스 코드를 확인할 수 있습니다.
 
 ## 책 소개
